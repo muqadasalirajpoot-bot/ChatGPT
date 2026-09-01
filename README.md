@@ -1,4 +1,5 @@
 # ChatGPT + LangChain Frontend
+https://chatgpt-acmwxjzxmhdthy6nwqvs9w.streamlit.app/
 
 This project adds a Streamlit frontend to the LangChain backend supplied in `projects.ipynb`.
 
